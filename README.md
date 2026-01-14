@@ -1,1 +1,1 @@
-status:offline
+offline
